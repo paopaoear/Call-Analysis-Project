@@ -13,7 +13,7 @@ In the second Jupyter notebook called [Parking.ipynb](https://github.com/paopaoe
 - Project Group 30
 - Section 2 
 
-## Member on the group team
+## Member on the Group Team
 
 - Han Pan (**hp2594**)
 - Juexin Peng (**jp4099**)
